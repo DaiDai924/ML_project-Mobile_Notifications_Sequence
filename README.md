@@ -1,1 +1,1 @@
-# ML_project-Mobile_Notifications_Sequence
+# ML project-Mobile Notifications Sequence
