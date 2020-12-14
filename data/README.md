@@ -2,7 +2,7 @@
 
 1. gender - The gender of the person (M: male, F: female)
 2. age - The age section of the person (0: \~15, 1: 16\~18, 2: 19\~22, 3: 22\~28, 4: 29\~)
-3. department - The department of the person (check the department_map)
+3. department - The department of the person (cs: computer science, ee: electronics engineering, oe: other engineerings, mg: managements, lb: liberals, bi: biological science, ed: educationals, ot: others)
 4. total_usetime - The use time per day of the person (0: \~1hr, 1: 1\~2hrs, 2: 2\~3hrs, 3: 3\~4hrs, 4: 4hrs\~)
 5. social_usetime - The use time per day on social apps of the person (0: \~0.5hr, 1: 0.5\~1hrs, 2: 1\~2hrs, 3: 2\~3hrs, 4: 3hrs\~, ?: unknown)
 6. communication_usetime - The use time per day on communication apps of the person (0: \~0.5hr, 1: 0.5\~1hrs, 2: 1\~2hrs, 3: 2\~3hrs, 4: 3hrs\~, ?: unknown)
