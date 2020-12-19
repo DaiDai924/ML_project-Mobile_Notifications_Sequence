@@ -18,3 +18,5 @@
 16. tol_1122 -(output label)- The tolerance of this label looks like: ([1], [2], [3, 4], [5, 6])
 17. tol_123 -(output label)- The tolerance of this label looks like: ([1], [2, 3], [4, 5, 6])
 18. tol_222 -(output label)- The tolerance of this label looks like: ([1, 2], [3, 4], [5, 6])
+19. tol_24 -(output label)- The tolerance of this label looks like: ([1, 2], [3, 4, 5, 6])
+20. tol_15 -(output label)- The tolerance of this label looks like: ([1], [2, 3, 4, 5, 6])
